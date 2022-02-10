@@ -169,13 +169,13 @@ fn render_footer(ctx: &CtxRef) {
             ui.add_space(10.);
             ui.add(Label::new("API source: newsapi.org").monospace());
             ui.add(
-                Hyperlink::new("https://github.com/emilk/egui")
-                    .text("Made with egui")
+                Hyperlink::new("https://www.linkedin.com/in/godfrey-lebo-233b38137/")
+                    .text("Built by Emori in Rust Journey")
                     .text_style(TextStyle::Monospace),
             );
             ui.add(
-                Hyperlink::new("https://github.com/creativcoder/headlines")
-                    .text("creativcoder/headlines")
+                Hyperlink::new("https://curiosityexploring.com.ng")
+                    .text("curiosityXploring")
                     .text_style(TextStyle::Monospace),
             );
             ui.add_space(10.);
