@@ -1,0 +1,13 @@
+c:\Users\emory\Documents\RustProjects\curiousnews_rust\target\debug\deps\emath-ce1e26e798c9b9bf.rmeta: C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\lib.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\align.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\numeric.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\pos2.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\rect.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\rect_transform.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\rot2.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\smart_aim.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\vec2.rs
+
+c:\Users\emory\Documents\RustProjects\curiousnews_rust\target\debug\deps\emath-ce1e26e798c9b9bf.d: C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\lib.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\align.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\numeric.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\pos2.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\rect.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\rect_transform.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\rot2.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\smart_aim.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\vec2.rs
+
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\lib.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\align.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\numeric.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\pos2.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\rect.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\rect_transform.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\rot2.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\smart_aim.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\emath-0.14.0\src\vec2.rs:

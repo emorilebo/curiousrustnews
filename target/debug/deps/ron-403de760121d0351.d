@@ -1,0 +1,15 @@
+c:\Users\emory\Documents\RustProjects\curiousnews_rust\target\debug\deps\ron-403de760121d0351.rmeta: C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\lib.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\mod.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\id.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\tag.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\value.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\mod.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\value.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\error.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\value.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\extensions.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\parse.rs
+
+c:\Users\emory\Documents\RustProjects\curiousnews_rust\target\debug\deps\ron-403de760121d0351.d: C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\lib.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\mod.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\id.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\tag.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\value.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\mod.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\value.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\error.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\value.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\extensions.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\parse.rs
+
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\lib.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\mod.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\id.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\tag.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\de\value.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\mod.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\ser\value.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\error.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\value.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\extensions.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\ron-0.6.6\src\parse.rs:

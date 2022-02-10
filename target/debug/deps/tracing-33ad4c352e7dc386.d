@@ -1,0 +1,13 @@
+c:\Users\emory\Documents\RustProjects\curiousnews_rust\target\debug\deps\tracing-33ad4c352e7dc386.rmeta: C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\lib.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\macros.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\dispatcher.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\field.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\instrument.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\level_filters.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\span.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\stdlib.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\subscriber.rs
+
+c:\Users\emory\Documents\RustProjects\curiousnews_rust\target\debug\deps\tracing-33ad4c352e7dc386.d: C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\lib.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\macros.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\dispatcher.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\field.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\instrument.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\level_filters.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\span.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\stdlib.rs C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\subscriber.rs
+
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\lib.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\macros.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\dispatcher.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\field.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\instrument.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\level_filters.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\span.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\stdlib.rs:
+C:\Users\emory\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.29\src\subscriber.rs:
